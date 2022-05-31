@@ -72,6 +72,7 @@
 - [Readable Code](https://blog.pragmaticengineer.com/readable-code/) <sup>[ENG]</sup>
 - [Fat vs. Skinny Design](https://www.yegor256.com/2020/02/19/fat-skinny-design.html) <sup>[ENG]</sup>
 - [A short story of raising errors](https://patryk.it/short-history-of-raising-errors/) <sup>[ENG]</sup>
+- [DevUpgrade - "Wyostrz z nami modelowanie obiektowe i funkcyjne oraz testowanie automatyczne."]([https://www.youtube.com/watch?v=iaLeKHbspLg](https://www.youtube.com/channel/UCvNne80z8XObPYIhDwnKDrg)) <sup>[PL]</sup> `video`
 
 
 ### Functional programming
