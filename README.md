@@ -45,6 +45,7 @@
 - [Domain analysis for microservices](https://docs.microsoft.com/en-us/azure/architecture/microservices/model/domain-analysis) <sup>[ENG]</sup>
 - [Domain, Subdomain, Bounded Context, Problem/Solution Space in DDD: Clearly Defined](https://medium.com/nick-tune-tech-strategy-blog/domains-subdomain-problem-solution-space-in-ddd-clearly-defined-e0b49c7b586c) <sup>[ENG]</sup>
 - [Domains and Subdomains](https://thedomaindrivendesign.io/domains-and-subdomains/) <sup>[ENG]</sup>
+- [Curing you Domain Model Anemia with Effective & Clean Tips](https://www.youtube.com/watch?v=zzxinXTIMmo)<sup>[ENG]</sup> `video`
 
 
 ### Object Oriented Programming
@@ -192,36 +193,6 @@
 - [Web developer security checklist](https://medium.com/simple-security/web-developer-security-checklist-f2e4f43c9c56) <sup>[ENG]</sup>
 - [Worst security hole you've seen?](https://stackoverflow.com/questions/1469899/worst-security-hole-youve-seen) <sup>[ENG]</sup>
 - [Czym jest CORS (Cross-Origin Resource Sharing) i jak wpływa na bezpieczeństwo](https://sekurak.pl/czym-jest-cors-cross-origin-resource-sharing-i-jak-wplywa-na-bezpieczenstwo/) <sup>[PL]</sup>
-
-
-### Elixir
-- [Phoenix - Gauging Progress](https://www.youtube.com/watch?v=pfFpIjFOL-I) <sup>[ENG]</sup> `video`
-- [Elixir and The Beam: How Concurrency Really Works](https://dev.to/sophiedebenedetto/elixir-and-the-beam-how-concurrency-really-works-354n) <sup>[ENG]</sup>
-- [Advanced Metaprogramming](https://www.youtube.com/watch?v=9C53Aq9r7T8) <sup>[PL]</sup> `video`
-- [Managing Translations in Elixir With Yata](https://www.youtube.com/watch?v=X_mrAq17gvs) <sup>[PL]</sup> `video`
-- [Concurrency and parallelism with Elixir and BEAM](https://medium.com/@patrykbak/concurrency-and-parallelism-with-elixir-and-beam-c683b2215c38) <sup>[ENG]</sup>
-- [Awesome Elixir and CQRS](https://github.com/slashdotdash/awesome-elixir-cqrs) <sup>[ENG]</sup>
-- [Resources to learn Elixir for PHP developers](https://patryk.it/resources-to-learn-elixir-for-php-developers/) <sup>[ENG]</sup>
-- [Things Elixir's Phoenix Framework does right](https://scorpil.com/post/things-elixirs-phoenix-framework-does-right/) <sup>[ENG]</sup>
-- [Supercharge your ExUnit skills in 10 minutes](https://medium.com/learn-elixir/supercharge-your-elixir-unit-testing-skills-in-10-minutes-a9c76d96e3b6) <sup>[ENG]</sup>
-- [Buildings start-ups with Elixir](https://www.youtube.com/watch?v=icfvFFZUxZQ) <sup>[ENG]</sup> `video`
-- [How to build a self-healing system using supervision tree in Elixir](https://kodius.com/blog/elixir-supervision-tree/) <sup>[ENG]</sup>
-- [Ecto Preloads in Phoenix Contexts](https://medium.com/@damonvjanis/ecto-preloads-in-phoenix-contexts-167d11e5405e) <sup>[ENG]</sup>
-- [Elixir on Kubernetes](https://www.youtube.com/watch?v=AjdD6gJHqBU) <sup>[PL]</sup> `video`
-- [Elixir at fintech with Brex](https://elixir-lang.org/blog/2020/06/23/growing-with-elixir-at-brex/) <sup>[ENG]</sup>
-- [Preloading Nested Associations with Ecto](https://thoughtbot.com/blog/preloading-nested-associations-with-ecto) <sup>[ENG]</sup>
-- [Using Event Sourcing and CQRS with Incident](https://pedroassumpcao.ghost.io/event-sourcing-and-cqrs-using-incident-part-1/) <sup>[ENG]</sup>
-- [On Elixir Metaprogramming](https://www.christianblavier.com/on-elixir-metaprogramming/) <sup>[ENG]</sup>
-- [Event-Driven architecture in Elixir](https://www.youtube.com/watch?v=8qDXG7tnl9w) <sup>[ENG]</sup> `video`
-- [Fast Elixir](https://github.com/devonestes/fast-elixir) <sup>[ENG]</sup>
-- [Killer Elixir-Tips](https://github.com/blackode/elixir-tips) <sup>[ENG]</sup>
-- [Iteration, Recursion, and Tail-call Optimization in Elixir](https://blog.appsignal.com/2019/03/19/elixir-alchemy-recursion.html) <sup>[ENG]</sup>
-- [When to use Elixir language?](https://www.amberbit.com/blog/2018/5/15/when-to-use-elixir-language/) <sup>[ENG]</sup>
-
-
-### Golang
-- [Introducing Clean Architecture by refactoring a Go project](https://threedots.tech/post/introducing-clean-architecture/) <sup>[ENG]</sup>
-- [Combining DDD, CQRS, and Clean Architecture by refactoring a Go project](https://threedots.tech/post/ddd-cqrs-clean-architecture-combined/) <sup>[ENG]</sup>
 
 
 ### Books
