@@ -31,6 +31,9 @@
 ### Recruitment (Engineering)
 - [Technical Interview Preparation Checklist](https://dev.to/trekhleb/technical-interview-preparation-checklist-4m4f) <sup>[ENG]</sup>
 
+### Clean Code
+- [Clean Lambdas - by Victor Rentea at JBCNConf'17](https://www.youtube.com/watch?v=qcIiufH_u7c) <sup>[ENG]</sup> `video`
+
 
 ### Domain Driven Design
 - [Sposób na projektowanie złożonych modeli biznesowych - Bottega IT](https://bottega.com.pl/pdf/materialy/sdj-ddd.pdf)
