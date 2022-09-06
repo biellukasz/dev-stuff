@@ -106,6 +106,7 @@
 
 
 ### Architecture
+- [How (and Why!) to Build Killer Bulk APIs — Part 1](https://medium.com/cyberark-engineering/how-and-why-to-build-killer-bulk-apis-part-acbbe78f3404) <sup>[ENG]</sup>
 - [Clean architecture at OLX Europe](https://tech.olx.com/clean-architecture-at-olx-europe-f0501c37f09d) <sup>[ENG]</sup>
 - [Lekkie podejście do dokumentowania architektury](https://www.youtube.com/watch?v=FoMEgnMKhK0) <sup>[PL]</sup> `video`
 - [Listen to Yourself: A Design Pattern for Event-Driven Microservices](https://medium.com/@odedia/listen-to-yourself-design-pattern-for-event-driven-microservices-16f97e3ed066) <sup>[ENG]</sup>
