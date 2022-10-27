@@ -153,6 +153,7 @@
 - [Awesome #Scalability](https://github.com/binhnguyennus/awesome-scalability#scalability) <sup>[ENG]</sup>
 - [Common mistakes when moving to microservices & cloud](https://www.youtube.com/watch?v=jo46-CP6ywU) <sup>[PL]</sup> `video`
 - [Avoiding Microservice Megadisasters](https://www.youtube.com/watch?v=gfh-VCTwMw8) <sup>[ENG]</sup> `video`
+- [The Hardest Part About Microservices: Your Data](https://blog.christianposta.com/microservices/the-hardest-part-about-microservices-data/) <sup>[ENG]</sup>
 
 
 ### Testing
