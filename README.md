@@ -228,9 +228,3 @@
 - [Semantic versioning](https://semver.org/) <sup>[ENG]</sup>
 - [Successfull git branching](https://nvie.com/posts/a-successful-git-branching-model/) <sup>[ENG]</sup>
 - [Git-Flow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/) <sup>[ENG]</sup>
-
-
-### Funny
-- [Podlaski git](https://github.com/maciejkorsan/podlaskigit) <sup>[PL]</sup>
-- [Ślůnski git](https://github.com/andrzej3393/slunskigit) <sup>[PL]</sup>
-- [Junior IT Rekruter](https://www.junioritrekruter.pl/)<sup>[PL]</sup>
