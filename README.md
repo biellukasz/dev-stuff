@@ -106,6 +106,8 @@
 
 
 ### Architecture
+- [Untangling Microservices, or Balancing Complexity in Distributed Systems](https://vladikk.com/2020/04/09/untangling-microservices/) <sup>[ENG]</sup>
+- [Vertical Slicing Architectures](https://www.youtube.com/watch?v=H7HWOlANX78&ab_channel=CraftSoftwarewithVictorRentea) <sup>[ENG]</sup> `video`
 - [How (and Why!) to Build Killer Bulk APIs — Part 1](https://medium.com/cyberark-engineering/how-and-why-to-build-killer-bulk-apis-part-acbbe78f3404) <sup>[ENG]</sup>
 - [Clean architecture at OLX Europe](https://tech.olx.com/clean-architecture-at-olx-europe-f0501c37f09d) <sup>[ENG]</sup>
 - [Lekkie podejście do dokumentowania architektury](https://www.youtube.com/watch?v=FoMEgnMKhK0) <sup>[PL]</sup> `video`
